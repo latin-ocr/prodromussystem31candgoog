@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromussystem31candgoog_0010.png"; bbox 0 0 2808 4538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 869 1804 1787 1977">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 869 1804 1787 1977">
+     <span class='ocr_line' id='line_1_1' title="bbox 869 1804 1738 1871; baseline 0.009 -8"><span class='ocrx_word' id='word_1_1' title='bbox 869 1804 1168 1868; x_wconf 77' lang='lat' dir='ltr'>TYPIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1222 1807 1738 1871; x_wconf 78' lang='lat' dir='ltr'><strong>CRAPELET</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 942 1918 1787 1977; baseline 0.011 -14"><span class='ocrx_word' id='word_1_3' title='bbox 942 1924 1020 1963; x_wconf 73' lang='lat' dir='ltr'><strong>vu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1046 1924 1185 1965; x_wconf 67' lang='lat' dir='ltr'><strong>nucu</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1213 1928 1273 1964; x_wconf 67' lang='lat' dir='ltr'><strong>uz</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1300 1922 1601 1977; x_wconf 65' lang='lat' dir='ltr'><strong>vammum,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1626 1923 1657 1970; x_wconf 83' lang='grc'>9</span> <span class='ocrx_word' id='word_1_8' title='bbox 1785 1918 1787 1920; x_wconf 73' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1276 3299 2584 3482">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1276 3299 2584 3482">
+     <span class='ocr_line' id='line_1_3' title="bbox 1276 3299 2584 3482; baseline 0.019 -95"><span class='ocrx_word' id='word_1_9' title='bbox 1276 3302 1414 3388; x_wconf 63' lang='grc' dir='ltr'><strong>’ἵίῖ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1432 3266 1974 3470; x_wconf 38' lang='lat' dir='ltr'><strong>&amp;staff-„sp</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2013 3245 2584 3503; x_wconf 46' lang='lat' dir='ltr'><strong>§ag-Q(</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

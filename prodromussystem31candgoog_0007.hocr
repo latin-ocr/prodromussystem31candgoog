@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromussystem31candgoog_0007.png"; bbox 0 0 2808 4538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1019 1418 2018 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1019 1418 2018 1508">
+     <span class='ocr_line' id='line_1_1' title="bbox 1019 1418 2018 1508; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 1019 1422 1172 1508; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1240 1418 1905 1508; x_wconf 86' lang='lat' dir='ltr'><strong>CANDOLLE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2011 1468 2018 1475; x_wconf 95' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 349 1834 2524 2296">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 349 1834 2524 2296">
+     <span class='ocr_line' id='line_1_2' title="bbox 704 1834 2001 1968; baseline -0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 704 1868 713 1874; x_wconf 78' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 904 1834 2001 1968; x_wconf 82' lang='lat' dir='ltr'>PRODROMUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 349 2133 2524 2296; baseline -0 -45"><span class='ocrx_word' id='word_1_6' title='bbox 349 2133 1439 2296; x_wconf 88' lang='lat' dir='ltr'><strong>SYSTEMATIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1537 2133 2524 2252; x_wconf 84' lang='lat' dir='ltr'><strong>NATURALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 810 2431 2099 2523">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 810 2431 2099 2523">
+     <span class='ocr_line' id='line_1_4' title="bbox 810 2431 2099 2523; baseline 0.002 -4"><span class='ocrx_word' id='word_1_8' title='bbox 810 2431 1187 2520; x_wconf 87' lang='lat' dir='ltr'><strong>REGNI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1259 2434 2099 2523; x_wconf 81' lang='lat' dir='ltr'><strong>VEGETABILIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1274 2688 1717 2760">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1274 2688 1717 2760">
+     <span class='ocr_line' id='line_1_5' title="bbox 1274 2688 1717 2760; baseline 0.005 -7"><span class='ocrx_word' id='word_1_10' title='bbox 1274 2688 1509 2760; x_wconf 84' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1573 2690 1627 2755; x_wconf 81' lang='grc' dir='ltr'>Χ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1708 2701 1717 2709; x_wconf 82' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
